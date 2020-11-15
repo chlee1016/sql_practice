@@ -1,0 +1,2 @@
+SELECT A
+FROM B
