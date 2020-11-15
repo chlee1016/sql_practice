@@ -1,1 +1,1 @@
-This repository is for practicing mysql
+## This repository is for practicing mysql
